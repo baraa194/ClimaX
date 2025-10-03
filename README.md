@@ -36,14 +36,18 @@ It also provides **trend analysis** using decades of historical NASA data to pre
 ### 🔹 Trend Analysis – Temperature over years  
 ![Trend](https://github.com/baraa194/ClimaX/raw/main/4.png)
 
-### 🔹 Weekly Plan – Distributed activities  
+### 🔹 Recommendations – AI Recommendations of activities
 ![Weekly](https://github.com/baraa194/ClimaX/raw/main/5.png)
 
 ### 🔹 Predicted Weather Data Table  
 ![Predicted](https://github.com/baraa194/ClimaX/raw/main/7.png)
 
-### 🔹 Detailed Weather Information  
-![Details](https://github.com/baraa194/ClimaX/raw/main/8.png)
+### 🔹 Weekly Plan – Distributed activities  && Prediction of week
+<p align="center">
+  <img src="https://github.com/baraa194/ClimaX/raw/main/8.png" width="45%">
+  <img src="https://github.com/baraa194/ClimaX/raw/main/6.png" width="45%">
+</p>
+
 
 
 
