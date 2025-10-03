@@ -67,4 +67,4 @@ It also provides **trend analysis** using decades of historical NASA data to pre
 1. Clone the repository:  
 ```bash
 git clone https://github.com/baraa194/ClimaX.git
-cd ClimaX
+
