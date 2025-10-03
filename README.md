@@ -43,7 +43,8 @@ It also provides **trend analysis** using decades of historical NASA data to pre
 ![Predicted]7.png
 
 ### 🔹 Detailed Weather Information  
-![Details]https://github.com/baraa194/ClimaX/raw/main/8.png
+![Details](https://github.com/baraa194/ClimaX/raw/main/8.png)
+
 
 
 ---
