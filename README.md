@@ -28,19 +28,19 @@ It also provides **trend analysis** using decades of historical NASA data to pre
 ## 🖼️ Screenshots  
 
 ### 🔹 Home Page – Select options  
-![Home]2.png
+![Home](https://github.com/baraa194/ClimaX/raw/main/2.png)
 
 ### 🔹 Daily Plan – Example activities  
-![Daily]3.png 
+![Daily](https://github.com/baraa194/ClimaX/raw/main/3.png)
 
 ### 🔹 Trend Analysis – Temperature over years  
-![Trend]4.png 
+![Trend](https://github.com/baraa194/ClimaX/raw/main/4.png)
 
 ### 🔹 Weekly Plan – Distributed activities  
-![Weekly]5.png
+![Weekly](https://github.com/baraa194/ClimaX/raw/main/5.png)
 
 ### 🔹 Predicted Weather Data Table  
-![Predicted]7.png
+![Predicted](https://github.com/baraa194/ClimaX/raw/main/7.png)
 
 ### 🔹 Detailed Weather Information  
 ![Details](https://github.com/baraa194/ClimaX/raw/main/8.png)
